@@ -1,0 +1,14 @@
+C:\Users\Croshaw\RiderProjects\TicketSales\TicketSales.UI\bin\Debug\net9.0-windows\TicketSales.UI.exe
+C:\Users\Croshaw\RiderProjects\TicketSales\TicketSales.UI\bin\Debug\net9.0-windows\TicketSales.UI.deps.json
+C:\Users\Croshaw\RiderProjects\TicketSales\TicketSales.UI\bin\Debug\net9.0-windows\TicketSales.UI.runtimeconfig.json
+C:\Users\Croshaw\RiderProjects\TicketSales\TicketSales.UI\bin\Debug\net9.0-windows\TicketSales.UI.dll
+C:\Users\Croshaw\RiderProjects\TicketSales\TicketSales.UI\bin\Debug\net9.0-windows\TicketSales.UI.pdb
+C:\Users\Croshaw\RiderProjects\TicketSales\TicketSales.UI\obj\Debug\net9.0-windows\TicketSales.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Croshaw\RiderProjects\TicketSales\TicketSales.UI\obj\Debug\net9.0-windows\TicketSales.UI.AssemblyInfoInputs.cache
+C:\Users\Croshaw\RiderProjects\TicketSales\TicketSales.UI\obj\Debug\net9.0-windows\TicketSales.UI.AssemblyInfo.cs
+C:\Users\Croshaw\RiderProjects\TicketSales\TicketSales.UI\obj\Debug\net9.0-windows\TicketSales.UI.csproj.CoreCompileInputs.cache
+C:\Users\Croshaw\RiderProjects\TicketSales\TicketSales.UI\obj\Debug\net9.0-windows\TicketSales.UI.dll
+C:\Users\Croshaw\RiderProjects\TicketSales\TicketSales.UI\obj\Debug\net9.0-windows\refint\TicketSales.UI.dll
+C:\Users\Croshaw\RiderProjects\TicketSales\TicketSales.UI\obj\Debug\net9.0-windows\TicketSales.UI.pdb
+C:\Users\Croshaw\RiderProjects\TicketSales\TicketSales.UI\obj\Debug\net9.0-windows\TicketSales.UI.genruntimeconfig.cache
+C:\Users\Croshaw\RiderProjects\TicketSales\TicketSales.UI\obj\Debug\net9.0-windows\ref\TicketSales.UI.dll
